@@ -1,4 +1,6 @@
-import products
+import products, ingreso
+
+
 def func():
     print('''Selecciona la opción:
 a) Añadir producto
